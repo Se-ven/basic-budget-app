@@ -1,7 +1,7 @@
 
 # Simple Budget Dashboard
 
-An elegant dashboard displaying short term costs within an overall zero sum budget context.\ Intended to help anyone manage complex expenses in a visual way that is easy to access and\ edit. Expanded functionality to come/change as needed, this is mainly a fun sandbox to\ explore new ways to display and work with daily life information.
+An elegant dashboard displaying short term costs within an overall zero sum budget context.\ Intended to help anyone manage complex expenses in a visual way that is easy to access and\  edit. Expanded functionality to come/change as needed, this is mainly a fun sandbox to\   explore new ways to display and work with daily life information.
 
 ## Libraries
 
